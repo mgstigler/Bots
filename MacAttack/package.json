@@ -1,0 +1,23 @@
+{
+  "name": "macattack",
+  "version": "1.0.0",
+  "description": "bot that builds mac & cheese order for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgstigler/Bots.git"
+  },
+  "author": "Maddie Stigler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgstigler/Bots/issues"
+  },
+  "homepage": "https://github.com/mgstigler/Bots#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^4.3.0"
+  }
+}
